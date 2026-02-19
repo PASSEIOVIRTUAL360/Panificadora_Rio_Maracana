@@ -13,11 +13,11 @@
       <min fov="19" pan="0" tilt="-90"/>
       <max fov="141" fovfisheye="359" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node15" info="" heading="0" datetime="2026:02:19 05:46:01" comment="" source="" latitude="-3.05414247" longitude="-60.01144649" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node15" info="" heading="0" datetime="2026:02:19 05:46:01" comment="" source="" latitude="-3.05414247" longitude="-60.01144649" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node2}" id="Point01" target="$fwd" skinid="ht_node" distance="4.88365" pan="39.1697" tilt="0"/>
+      <hotspot description="" title=" " url="{node2}" id="Point01" target="$fwd" skinid="ht_node" distance="4.88365" pan="39.1697" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -38,12 +38,12 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node2" info="" heading="0" datetime="2026:02:19 05:46:01" comment="" source="" latitude="-3.05410842" longitude="-60.01147427" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node2" info="" heading="0" datetime="2026:02:19 05:46:01" comment="" source="" latitude="-3.05410842" longitude="-60.01147427" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node15}" id="Point01" target="$fwd" skinid="ht_node" distance="4.88365" pan="-140.83" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node3}" id="Point02" target="$fwd" skinid="ht_node" distance="4.13217" pan="0.50808" tilt="0"/>
+      <hotspot description="" title=" " url="{node15}" id="Point01" target="$fwd" skinid="ht_node" distance="4.88365" pan="-140.83" tilt="0"/>
+      <hotspot description="" title=" " url="{node3}" id="Point02" target="$fwd" skinid="ht_node" distance="4.13217" pan="0.50808" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -64,12 +64,12 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node3" info="" heading="-14.7298" datetime="2026:02:19 05:45:19" comment="" source="" latitude="-3.05407126" longitude="-60.01147460" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node3" info="" heading="-14.7298" datetime="2026:02:19 05:45:19" comment="" source="" latitude="-3.05407126" longitude="-60.01147460" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node2}" id="Point01" target="$fwd" skinid="ht_node" distance="4.13217" pan="-194.222" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node7}" id="Point02" target="$fwd" skinid="ht_node" distance="4.78161" pan="-3.50858" tilt="0"/>
+      <hotspot description="" title=" " url="{node2}" id="Point01" target="$fwd" skinid="ht_node" distance="4.13217" pan="-194.222" tilt="0"/>
+      <hotspot description="" title=" " url="{node7}" id="Point02" target="$fwd" skinid="ht_node" distance="4.78161" pan="-3.50858" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -90,12 +90,12 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node4" info="" heading="-386.619" datetime="2026:02:19 05:45:53" comment="" source="" latitude="-3.05392060" longitude="-60.01156647" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node4" info="" heading="-386.619" datetime="2026:02:19 05:45:53" comment="" source="" latitude="-3.05392060" longitude="-60.01156647" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node6}" id="Point01" target="$fwd" skinid="ht_node" distance="5.62967" pan="-541.578" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node14}" id="Point02" target="$fwd" skinid="ht_node" distance="6.11159" pan="-433.597" tilt="0"/>
+      <hotspot description="" title=" " url="{node6}" id="Point01" target="$fwd" skinid="ht_node" distance="5.62967" pan="-541.578" tilt="0"/>
+      <hotspot description="" title=" " url="{node14}" id="Point02" target="$fwd" skinid="ht_node" distance="6.11159" pan="-433.597" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -116,12 +116,12 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node5" info="" heading="-15.2725" datetime="2026:02:19 05:45:52" comment="" source="" latitude="-3.05400062" longitude="-60.01153261" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node5" info="" heading="-15.2725" datetime="2026:02:19 05:45:52" comment="" source="" latitude="-3.05400062" longitude="-60.01153261" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node6}" id="Point01" target="$fwd" skinid="ht_node" distance="4.03922" pan="4.65755" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node11}" id="Point02" target="$fwd" skinid="ht_node" distance="4.59651" pan="-100.624" tilt="0"/>
+      <hotspot description="" title=" " url="{node6}" id="Point01" target="$fwd" skinid="ht_node" distance="4.03922" pan="4.65755" tilt="0"/>
+      <hotspot description="" title=" " url="{node11}" id="Point02" target="$fwd" skinid="ht_node" distance="4.59651" pan="-100.624" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -142,13 +142,13 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node6" info="" heading="-18.716" datetime="2026:02:19 05:45:52" comment="" source="" latitude="-3.05396647" longitude="-60.01154501" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node6" info="" heading="-18.716" datetime="2026:02:19 05:45:52" comment="" source="" latitude="-3.05396647" longitude="-60.01154501" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node12}" id="Point01" target="$fwd" skinid="ht_node" distance="4.8854" pan="-95.9479" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node4}" id="Point02" target="$fwd" skinid="ht_node" distance="5.62967" pan="6.32502" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node5}" id="Point03" target="$fwd" skinid="ht_node" distance="4.03922" pan="-178.786" tilt="0"/>
+      <hotspot description="" title=" " url="{node12}" id="Point01" target="$fwd" skinid="ht_node" distance="4.8854" pan="-95.9479" tilt="0"/>
+      <hotspot description="" title=" " url="{node4}" id="Point02" target="$fwd" skinid="ht_node" distance="5.62967" pan="6.32502" tilt="0"/>
+      <hotspot description="" title=" " url="{node5}" id="Point03" target="$fwd" skinid="ht_node" distance="4.03922" pan="-178.786" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -169,12 +169,12 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node7" info="" heading="-15.1941" datetime="2026:02:19 05:45:37" comment="" source="" latitude="-3.05402908" longitude="-60.01148298" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node7" info="" heading="-15.1941" datetime="2026:02:19 05:45:37" comment="" source="" latitude="-3.05402908" longitude="-60.01148298" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node3}" id="Point01" target="$fwd" skinid="ht_node" distance="4.78161" pan="-183.973" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node11}" id="Point02" target="$fwd" skinid="ht_node" distance="3.65717" pan="-0.472337" tilt="0"/>
+      <hotspot description="" title=" " url="{node3}" id="Point01" target="$fwd" skinid="ht_node" distance="4.78161" pan="-183.973" tilt="0"/>
+      <hotspot description="" title=" " url="{node11}" id="Point02" target="$fwd" skinid="ht_node" distance="3.65717" pan="-0.472337" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -195,12 +195,12 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node8" info="" heading="-25.9842" datetime="2026:02:19 05:45:37" comment="" source="" latitude="-3.05396011" longitude="-60.01144711" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node8" info="" heading="-25.9842" datetime="2026:02:19 05:45:37" comment="" source="" latitude="-3.05396011" longitude="-60.01144711" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node11}" id="Point01" target="$fwd" skinid="ht_node" distance="6.41903" pan="104.085" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node9}" id="Point02" target="$fwd" skinid="ht_node" distance="4.26704" pan="3.27053" tilt="0"/>
+      <hotspot description="" title=" " url="{node11}" id="Point01" target="$fwd" skinid="ht_node" distance="6.41903" pan="104.085" tilt="0"/>
+      <hotspot description="" title=" " url="{node9}" id="Point02" target="$fwd" skinid="ht_node" distance="4.26704" pan="3.27053" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -221,13 +221,13 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node9" info="" heading="-22.6458" datetime="2026:02:19 05:45:37" comment="" source="" latitude="-3.05392663" longitude="-60.01146589" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node9" info="" heading="-22.6458" datetime="2026:02:19 05:45:37" comment="" source="" latitude="-3.05392663" longitude="-60.01146589" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node12}" id="Point01" target="$fwd" skinid="ht_node" distance="5.23356" pan="107.158" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node8}" id="Point03" target="$fwd" skinid="ht_node" distance="4.26704" pan="-173.391" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node10}" id="Point02" target="$fwd" skinid="ht_node" distance="5.52721" pan="3.73737" tilt="0"/>
+      <hotspot description="" title=" " url="{node12}" id="Point01" target="$fwd" skinid="ht_node" distance="5.23356" pan="107.158" tilt="0"/>
+      <hotspot description="" title=" " url="{node8}" id="Point03" target="$fwd" skinid="ht_node" distance="4.26704" pan="-173.391" tilt="0"/>
+      <hotspot description="" title=" " url="{node10}" id="Point02" target="$fwd" skinid="ht_node" distance="5.52721" pan="3.73737" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -248,12 +248,12 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node10" info="" heading="-29.6153" datetime="2026:02:19 05:45:52" comment="" source="" latitude="-3.05388210" longitude="-60.01148801" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node10" info="" heading="-29.6153" datetime="2026:02:19 05:45:52" comment="" source="" latitude="-3.05388210" longitude="-60.01148801" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node14}" id="Point02" target="$fwd" skinid="ht_node" distance="4.24529" pan="61.8856" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node9}" id="Point01" target="$fwd" skinid="ht_node" distance="5.52721" pan="-183.232" tilt="0"/>
+      <hotspot description="" title=" " url="{node14}" id="Point02" target="$fwd" skinid="ht_node" distance="4.24529" pan="61.8856" tilt="0"/>
+      <hotspot description="" title=" " url="{node9}" id="Point01" target="$fwd" skinid="ht_node" distance="5.52721" pan="-183.232" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -274,14 +274,14 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node11" info="" heading="-19.0223" datetime="2026:02:19 05:45:19" comment="" source="" latitude="-3.05399727" longitude="-60.01149135" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node11" info="" heading="-19.0223" datetime="2026:02:19 05:45:19" comment="" source="" latitude="-3.05399727" longitude="-60.01149135" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node7}" id="Point01" target="$fwd" skinid="ht_node" distance="3.65717" pan="-184.301" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node12}" id="Point02" target="$fwd" skinid="ht_node" distance="4.65998" pan="-4.18062" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node8}" id="Point03" target="$fwd" skinid="ht_node" distance="6.41903" pan="-68.9531" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node5}" id="Point04" target="$fwd" skinid="ht_node" distance="4.59651" pan="75.6261" tilt="0"/>
+      <hotspot description="" title=" " url="{node7}" id="Point01" target="$fwd" skinid="ht_node" distance="3.65717" pan="-184.301" tilt="0"/>
+      <hotspot description="" title=" " url="{node12}" id="Point02" target="$fwd" skinid="ht_node" distance="4.65998" pan="-4.18062" tilt="0"/>
+      <hotspot description="" title=" " url="{node8}" id="Point03" target="$fwd" skinid="ht_node" distance="6.41903" pan="-68.9531" tilt="0"/>
+      <hotspot description="" title=" " url="{node5}" id="Point04" target="$fwd" skinid="ht_node" distance="4.59651" pan="75.6261" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -302,14 +302,14 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node12" info="" heading="-16.5691" datetime="2026:02:19 05:45:19" comment="" source="" latitude="-3.05395676" longitude="-60.01150210" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node12" info="" heading="-16.5691" datetime="2026:02:19 05:45:19" comment="" source="" latitude="-3.05395676" longitude="-60.01150210" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node11}" id="Point01" target="$fwd" skinid="ht_node" distance="4.65998" pan="-181.727" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node13}" id="Point02" target="$fwd" skinid="ht_node" distance="4.48697" pan="-2.6655" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node9}" id="Point03" target="$fwd" skinid="ht_node" distance="5.23356" pan="-66.7655" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node6}" id="Point04" target="$fwd" skinid="ht_node" distance="4.8854" pan="86.199" tilt="0"/>
+      <hotspot description="" title=" " url="{node11}" id="Point01" target="$fwd" skinid="ht_node" distance="4.65998" pan="-181.727" tilt="0"/>
+      <hotspot description="" title=" " url="{node13}" id="Point02" target="$fwd" skinid="ht_node" distance="4.48697" pan="-2.6655" tilt="0"/>
+      <hotspot description="" title=" " url="{node9}" id="Point03" target="$fwd" skinid="ht_node" distance="5.23356" pan="-66.7655" tilt="0"/>
+      <hotspot description="" title=" " url="{node6}" id="Point04" target="$fwd" skinid="ht_node" distance="4.8854" pan="86.199" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -330,12 +330,12 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node13" info="" heading="-18.0148" datetime="2026:02:19 05:45:19" comment="" source="" latitude="-3.05391759" longitude="-60.01151181" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node13" info="" heading="-18.0148" datetime="2026:02:19 05:45:19" comment="" source="" latitude="-3.05391759" longitude="-60.01151181" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node12}" id="Point01" target="$fwd" skinid="ht_node" distance="4.48697" pan="-184.111" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node14}" id="Point03" target="$fwd" skinid="ht_node" distance="4.15593" pan="4.64566" tilt="0"/>
+      <hotspot description="" title=" " url="{node12}" id="Point01" target="$fwd" skinid="ht_node" distance="4.48697" pan="-184.111" tilt="0"/>
+      <hotspot description="" title=" " url="{node14}" id="Point03" target="$fwd" skinid="ht_node" distance="4.15593" pan="4.64566" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
@@ -356,13 +356,13 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
     </view>
-    <userdata author="" description="" customnodeid="" title="Panificadora Rio Maracanã" tags="OFIII" nodeid="node14" info="" heading="-22.581" datetime="2026:02:19 05:45:37" comment="" source="" latitude="-3.05388310" longitude="-60.01152623" copyright=""/>
+    <userdata author="" description="" customnodeid="" title=" " tags="OFIII" nodeid="node14" info="" heading="-22.581" datetime="2026:02:19 05:45:37" comment="" source="" latitude="-3.05388310" longitude="-60.01152623" copyright=""/>
     <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
       <label borderalpha="1" textalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" borderradius="1" textcolor="0x000000" width="180" background="1" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node13}" id="Point01" target="$fwd" skinid="ht_node" distance="4.15593" pan="-179.921" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node10}" id="Point02" target="$fwd" skinid="ht_node" distance="4.24529" pan="-111.08" tilt="0"/>
-      <hotspot description="" title="Panificadora Rio Maracanã" url="{node4}" id="Point03" target="$fwd" skinid="ht_node" distance="6.11159" pan="110.441" tilt="0"/>
+      <hotspot description="" title=" " url="{node13}" id="Point01" target="$fwd" skinid="ht_node" distance="4.15593" pan="-179.921" tilt="0"/>
+      <hotspot description="" title=" " url="{node10}" id="Point02" target="$fwd" skinid="ht_node" distance="4.24529" pan="-111.08" tilt="0"/>
+      <hotspot description="" title=" " url="{node4}" id="Point03" target="$fwd" skinid="ht_node" distance="6.11159" pan="110.441" tilt="0"/>
     </hotspots>
     <media/>
     <transition blendtime="0.5" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomout="0" delay="none" type="mesh" zoomafteroutfov="40" softedge="0" zoomin="7" zoomfov="40" zoomafterinfov="140"/>
